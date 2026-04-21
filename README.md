@@ -60,17 +60,61 @@ Thus the program to implement the simple linear regression model for predicting 
 
 
 
+.
+.
 
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
+.
+.
+.
+.
 
 
+.
+.
+.
+.
+.
 
+.
 
+.
+.
 
+.
 
+.
+.
+.
 
+.
 
+.
+.
+.
+.
 
+.
 
 
 
@@ -86,178 +130,15 @@ Thus the program to implement the simple linear regression model for predicting 
 
 
 
+.
 
+.
+.
+.
+.
 
+.
+.
+.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
+.
